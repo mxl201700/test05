@@ -6,6 +6,6 @@ package pojo;
  * Date: Created in 2019/8/2 16:35
  **/
 public class User {
-    private String name;
+    private String name;//用户名
     private int age;
 }
